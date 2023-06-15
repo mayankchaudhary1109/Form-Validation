@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0;
+}
+button{
+  border-radius: 12px;
+  font-size: 16px;
+  background-color:ghostwhite;
+  color:#A9907E;
+  font-weight: bolder;
+}
+p{
+  height: 10px;
+}
+h1{
+  font-style: italic;
+  margin-right: 17px;
+  color: #675D50;
+}
+.main{
+  border-radius: 5px;
+}
